@@ -1,7 +1,7 @@
 ml_dtypes==0.2.0
 flax==0.7.2
-jax==0.4.10
-jaxlib==0.4.10
+jax==0.4.13
+jaxlib==0.4.13
 optax==0.1.7
 pandas==1.5.3
 numpy==1.23.5
